@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/admin/Desktop/Uni/Paper/heat-demand-forecast/src/evaluation/mlruns/15
+experiment_id: '15'
+lifecycle_stage: active
+name: svr_all

@@ -1,0 +1,19 @@
+SDG
+
+summer
+Top 3 model configs:
+Hyperparameters: {'loss': 'squared_epsilon_insensitive', 'penalty': 'l2', 'learning_rate': 'optimal', 'alpha': 0.1, 'epsilon': 10.0, 'eta0': 0.3, 'power_t': 0.1}
+Hyperparameters: {'loss': 'squared_epsilon_insensitive', 'penalty': 'l1', 'learning_rate': 'adaptive', 'alpha': 6.3, 'epsilon': 8.1, 'eta0': 9.7, 'power_t': 0.1}
+Hyperparameters: {'loss': 'squared_error', 'penalty': 'l1', 'learning_rate': 'adaptive', 'alpha': 10.0, 'epsilon': 7.5, 'eta0': 4.4, 'power_t': 0.1}
+
+winter
+Top 3 model configs:
+Hyperparameters: {'loss': 'squared_epsilon_insensitive', 'penalty': 'elasticnet', 'learning_rate': 'adaptive', 'alpha': 0.1, 'epsilon': 10.0, 'eta0': 7.5, 'power_t': 0.1}
+Hyperparameters: {'loss': 'squared_epsilon_insensitive', 'penalty': 'elasticnet', 'learning_rate': 'adaptive', 'alpha': 0.1, 'epsilon': 10.0, 'eta0': 7.9, 'power_t': 0.1}
+Hyperparameters: {'loss': 'squared_epsilon_insensitive', 'penalty': 'elasticnet', 'learning_rate': 'adaptive', 'alpha': 0.2, 'epsilon': 10.0, 'eta0': 7.0, 'power_t': 0.1}
+
+all
+Top 3 model configs:
+Hyperparameters: {'loss': 'squared_error', 'penalty': 'l2', 'learning_rate': 'adaptive', 'alpha': 0.1, 'epsilon': 8.7, 'eta0': 0.1, 'power_t': 0.1}
+Hyperparameters: {'loss': 'squared_epsilon_insensitive', 'penalty': 'l1', 'learning_rate': 'invscaling', 'alpha': 4.7, 'epsilon': 3.7, 'eta0': 0.1, 'power_t': 0.1}
+Hyperparameters: {'loss': 'squared_epsilon_insensitive', 'penalty': 'elasticnet', 'learning_rate': 'optimal', 'alpha': 4.4, 'epsilon': 5.1, 'eta0': 9.7, 'power_t': 0.1}

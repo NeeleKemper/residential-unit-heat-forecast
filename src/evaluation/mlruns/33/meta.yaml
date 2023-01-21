@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/33
+experiment_id: '33'
+lifecycle_stage: active
+name: lstm_all

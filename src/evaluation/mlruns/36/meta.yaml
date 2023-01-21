@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/36
+experiment_id: '36'
+lifecycle_stage: active
+name: odl_all

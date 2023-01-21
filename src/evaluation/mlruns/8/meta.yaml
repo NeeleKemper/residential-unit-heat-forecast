@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/admin/Desktop/Uni/Paper/heat-demand-forecast/src/evaluation/mlruns/8
+experiment_id: '8'
+lifecycle_stage: active
+name: lr_winter

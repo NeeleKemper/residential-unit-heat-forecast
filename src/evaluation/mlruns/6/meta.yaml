@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/admin/Desktop/Uni/Paper/heat-demand-forecast/src/evaluation/mlruns/6
+experiment_id: '6'
+lifecycle_stage: active
+name: sarima_all

@@ -1,0 +1,15 @@
+artifact_uri: file:///data/oc-compute02/kemperne/hdf-server/mlruns/37/c3bdd50144104508b7461730f99a77d3/artifacts
+end_time: 1651651730318
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+name: ''
+run_id: c3bdd50144104508b7461730f99a77d3
+run_uuid: c3bdd50144104508b7461730f99a77d3
+source_name: ''
+source_type: 37
+source_version: ''
+start_time: 1651649064217
+status: 3
+tags: []
+user_id: kemperne

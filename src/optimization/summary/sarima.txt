@@ -1,0 +1,29 @@
+SARIMA  [(p, d, q), (P, D, Q, m), t]
+
+summer
+Top 3 model config:
+[(0, 0, 0), (2, 0, 0, 24), 'c'] 6923.775
+[(0, 0, 0), (1, 0, 0, 24), 'c'] 6936.9687
+[(0, 0, 1), (2, 0, 0, 24), 'c'] 6980.4884
+
+winter
+Top 3 model config:
+[(2, 0, 0), (1, 1, 1, 24), 'c'] 15680.1204
+[(2, 0, 2), (0, 1, 2, 24), 'c'] 15694.8681
+[(0, 0, 2), (1, 1, 2, 24), 'c'] 15706.7521
+
+all
+Top 3 model config:
+[(2, 1, 2), (2, 0, 1, 24), 'c'] 13820.2834
+-> warning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters
+    (p need to be zero)
+-> warning: Non-invertible starting MA parameters found. Using zeros as starting parameters.
+    warn('Non-invertible starting MA parameters found.) (p need to be zero)
+-> unstable model
+[(2, 1, 2), (1, 0, 2, 24), 't'] 14618.0992
+-> warning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters
+    (p need to be zero)
+-> warning: Non-invertible starting MA parameters found. Using zeros as starting parameters.
+    warn('Non-invertible starting MA parameters found.) (p need to be zero)
+-> unstable model
+[(0, 1, 2), (2, 0, 0, 24), 'c'] 15722.6453

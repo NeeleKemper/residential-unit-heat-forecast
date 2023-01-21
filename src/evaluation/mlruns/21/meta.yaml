@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/admin/Desktop/Uni/Paper/heat-demand-forecast/src/evaluation/mlruns/21
+experiment_id: '21'
+lifecycle_stage: active
+name: sgd_all

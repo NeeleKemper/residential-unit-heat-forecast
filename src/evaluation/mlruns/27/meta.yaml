@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/27
+experiment_id: '27'
+lifecycle_stage: active
+name: dnn_all

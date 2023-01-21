@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/35
+experiment_id: '35'
+lifecycle_stage: active
+name: odl_winter

@@ -1,0 +1,19 @@
+SVR
+
+summer
+Top 3 model configs:
+Hyperparameters: {'kernel': 'rbf', 'C': 46500, 'gamma': 'scale', 'epsilon': 100.0}
+Hyperparameters: {'kernel': 'rbf', 'C': 45070, 'gamma': 'auto', 'epsilon': 61.1}
+Hyperparameters: {'kernel': 'rbf', 'C': 46500, 'gamma': 'scale', 'epsilon': 34.2}
+
+winter
+Top 3 model configs:
+Hyperparameters: {'kernel': 'rbf', 'C': 105000, 'gamma': 'scale', 'epsilon': 52.2}
+Hyperparameters: {'kernel': 'rbf', 'C': 105000, 'gamma': 'auto', 'epsilon': 49.3}
+Hyperparameters: {'kernel': 'rbf', 'C': 105000, 'gamma': 'auto', 'epsilon': 40.2}
+
+all
+Top 3 model configs:
+Hyperparameters: {'kernel': 'rbf', 'C': 105000, 'gamma': 'auto', 'epsilon': 100.0}
+Hyperparameters: {'kernel': 'rbf', 'C': 105000, 'gamma': 'scale', 'epsilon': 100.0}
+Hyperparameters: {'kernel': 'rbf', 'C': 105000, 'gamma': 'scale', 'epsilon': 65.1}

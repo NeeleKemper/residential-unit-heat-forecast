@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/admin/Desktop/Uni/Paper/heat-demand-forecast/src/evaluation/mlruns/18
+experiment_id: '18'
+lifecycle_stage: active
+name: rfr_all

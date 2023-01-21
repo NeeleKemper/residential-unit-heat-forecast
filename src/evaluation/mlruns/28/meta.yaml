@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/28
+experiment_id: '28'
+lifecycle_stage: active
+name: cnn_summer

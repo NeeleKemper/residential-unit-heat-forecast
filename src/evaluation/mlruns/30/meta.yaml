@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/30
+experiment_id: '30'
+lifecycle_stage: active
+name: cnn_all

@@ -1,0 +1,19 @@
+KRR
+
+summer
+Top 3 model configs:
+Hyperparameters: {'kernel': 'rbf', 'alpha': 3.6, 'gamma': 2.1}
+Hyperparameters: {'kernel': 'rbf', 'alpha': 1.9, 'gamma': 11.0}
+Hyperparameters: {'kernel': 'rbf', 'alpha': 9.6, 'gamma': 2.5}
+
+winter
+Top 3 model configs:
+Hyperparameters: {'kernel': 'linear', 'alpha': 1.5, 'gamma': 42.9}
+Hyperparameters: {'kernel': 'linear', 'alpha': 2.7, 'gamma': 28.7}
+Hyperparameters: {'kernel': 'linear', 'alpha': 2.9, 'gamma': 72.9}
+
+all
+Top 3 model configs:
+Hyperparameters: {'kernel': 'rbf', 'alpha': 9.7, 'gamma': 3.0}
+Hyperparameters: {'kernel': 'linear', 'alpha': 2.2, 'gamma': 77.1}
+Hyperparameters: {'kernel': 'linear', 'alpha': 4.2, 'gamma': 16.6}

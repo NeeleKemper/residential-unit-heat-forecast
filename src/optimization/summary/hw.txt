@@ -1,0 +1,20 @@
+HW (trend, seasonal)
+
+summer
+Top 3 model configs:
+[None, 'additive'] 8134.2215
+[None, 'multiplicative'] 8251.4138
+[None, None] 8868.7486
+
+
+winter
+Top 3 model configs:
+['multiplicative', 'additive'] 21009.8387
+[None, 'multiplicative'] 24388.5335
+[None, None] 26249.575
+
+all
+Top 3 model configs:
+[None, 'additive'] 21844.5773
+[None, None] 22211.8159
+[None, 'multiplicative'] 22394.5604

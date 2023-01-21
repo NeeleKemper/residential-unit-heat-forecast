@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/25
+experiment_id: '25'
+lifecycle_stage: active
+name: dnn_summer

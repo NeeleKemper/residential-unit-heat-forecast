@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/29
+experiment_id: '29'
+lifecycle_stage: active
+name: cnn_winter

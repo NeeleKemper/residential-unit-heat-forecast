@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/Uni/Paper/heat-demand-forecast/src/evaluation/mlruns/19/571d345cb1194d10bae2d2cde4783550/artifacts
+end_time: 1648554331090
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+name: ''
+run_id: 571d345cb1194d10bae2d2cde4783550
+run_uuid: 571d345cb1194d10bae2d2cde4783550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1648553952466
+status: 3
+tags: []
+user_id: admin

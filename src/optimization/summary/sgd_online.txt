@@ -1,0 +1,19 @@
+SDG Online (loss, penalty, learning_rate)
+
+summer
+Top 3 model configs:
+['huber', 'l1', 'invscaling'] 5430.0279 5450.7328
+['huber', 'l2', 'invscaling'] 5630.3861 5588.3506
+['huber', 'elasticnet', 'invscaling'] 5971.3454 5999.3496
+
+winter
+Top 3 model configs:
+['huber', 'l1', 'invscaling'] 38676.035 38647.4907
+['huber', 'l2', 'invscaling'] 40682.594 40515.6265
+['huber', 'elasticnet', 'invscaling'] 40824.888 40339.9942
+
+all
+Top 3 model configs:
+['huber', 'l2', 'invscaling'] 22716.8529 22557.4302
+['huber', 'l1', 'invscaling'] 22993.3554 22713.9051
+['huber', 'elasticnet', 'invscaling'] 23966.9474 23588.2691

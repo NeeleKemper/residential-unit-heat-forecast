@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/41
+experiment_id: '41'
+lifecycle_stage: active
+name: hbp_winter

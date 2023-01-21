@@ -1,0 +1,21 @@
+HBP
+
+summer
+Top 3 model configs:
+Hyperparameters: {'n_layers': 2, 'hidden_units': 8, 'activation': 'linear', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'glorot_normal', 'kernel_regularizer': 'l1_l2', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1_l2', 'kernel_constraint': 'non_neg', 'bias_constraint': 'min_max_norm'}
+Hyperparameters: {'n_layers': 2, 'hidden_units': 8, 'activation': 'relu', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'he_normal', 'kernel_regularizer': 'l1_l2', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1_l2', 'kernel_constraint': 'non_neg', 'bias_constraint': 'min_max_norm'}
+Hyperparameters: {'n_layers': 6, 'hidden_units': 16, 'activation': 'linear', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'lecun_uniform', 'kernel_regularizer': 'l1', 'activity_regularizer': 'l1', 'bias_regularizer': 'l2', 'kernel_constraint': 'min_max_norm', 'bias_constraint': 'non_neg'}
+
+winter
+Top 3 model configs:
+Hyperparameters: {'n_layers': 2, 'hidden_units': 128, 'activation': 'relu', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'random_uniform', 'kernel_regularizer': 'l1_l2', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1_l2', 'kernel_constraint': 'max_norm', 'bias_constraint': 'min_max_norm'}
+Hyperparameters: {'n_layers': 2, 'hidden_units': 1024, 'activation': 'relu', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'random_uniform', 'kernel_regularizer': 'l1_l2', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1_l2', 'kernel_constraint': 'min_max_norm', 'bias_constraint': 'min_max_norm'}
+Hyperparameters: {'n_layers': 5, 'hidden_units': 128, 'activation': 'relu', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'glorot_normal', 'kernel_regularizer': 'l1_l2', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1_l2', 'kernel_constraint': 'min_max_norm', 'bias_constraint': 'unit_norm'}
+
+all
+Top 3 model configs:
+Hyperparameters: {'n_layers': 2, 'hidden_units': 64, 'activation': 'relu', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'random_uniform', 'kernel_regularizer': 'l1_l2', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1', 'kernel_constraint': 'min_max_norm', 'bias_constraint': 'min_max_norm'}
+Hyperparameters: {'n_layers': 2, 'hidden_units': 64, 'activation': 'relu', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'random_uniform', 'kernel_regularizer': 'l1_l2', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1_l2', 'kernel_constraint': 'min_max_norm', 'bias_constraint': 'unit_norm'}
+Hyperparameters: {'n_layers': 2, 'hidden_units': 512, 'activation': 'relu', 'optimizer': 'adam', 'learning_rate': 0.001, 'kernel_initializer': 'random_uniform', 'kernel_regularizer': 'l1', 'activity_regularizer': 'l1', 'bias_regularizer': 'l1_l2', 'kernel_constraint': 'min_max_norm', 'bias_constraint': 'unit_norm'}
+
+

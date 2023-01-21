@@ -1,0 +1,4 @@
+artifact_location: file:///data/oc-compute02/kemperne/hdf-server/mlruns/39
+experiment_id: '39'
+lifecycle_stage: active
+name: odl_er_all

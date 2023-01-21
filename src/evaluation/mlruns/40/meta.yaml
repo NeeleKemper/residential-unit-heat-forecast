@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/40
+experiment_id: '40'
+lifecycle_stage: active
+name: hbp_summer

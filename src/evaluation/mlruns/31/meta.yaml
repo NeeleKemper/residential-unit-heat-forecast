@@ -1,0 +1,4 @@
+artifact_location: file:///content/mlruns/31
+experiment_id: '31'
+lifecycle_stage: active
+name: lstm_summer

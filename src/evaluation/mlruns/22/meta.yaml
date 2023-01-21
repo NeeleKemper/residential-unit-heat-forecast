@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/admin/Desktop/Uni/Paper/heat-demand-forecast/src/evaluation/mlruns/22
+experiment_id: '22'
+lifecycle_stage: active
+name: rls_summer
